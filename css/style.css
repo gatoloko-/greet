@@ -1,0 +1,129 @@
+/* line 1, style.scss */
+body {
+  margin: 0px;
+  padding: 0px; }
+
+/* line 1, _nav-top.scss */
+.top {
+  z-index: 9;
+  background: #37A54A;
+  width: 100%;
+  position: fixed;
+  top: 0px; }
+
+/* line 8, _nav-top.scss */
+.top-item {
+  float: left;
+  margin-right: 60px;
+  margin-left: 60px;
+  cursor: pointer; }
+
+/* line 14, _nav-top.scss */
+.top-icon {
+  max-width: 80px; }
+
+/* line 1, _bottom-menu.scss */
+.bottom {
+  z-index: 9;
+  background: #E8841E;
+  width: 100%;
+  position: fixed;
+  bottom: 0px; }
+
+/* line 8, _bottom-menu.scss */
+.bottom-item {
+  float: left;
+  margin-right: 60px;
+  margin-left: 60px; }
+
+/* line 13, _bottom-menu.scss */
+.bottom-icon {
+  max-width: 80px; }
+
+/* line 1, _menu.scss */
+.menu {
+  font-family: 'Quando', serif;
+  display: none;
+  z-index: 10;
+  background: #E3E3E4;
+  width: 600px;
+  height: 100vh;
+  position: fixed;
+  top: 0px; }
+
+/* line 11, _menu.scss */
+.close-menu {
+  position: relative;
+  top: 0px;
+  float: right; }
+
+/* line 16, _menu.scss */
+.menu-logo {
+  width: 350px; }
+
+/* line 19, _menu.scss */
+.menu-item {
+  font-weight: bold;
+  font-size: 40px;
+  padding: 10px;
+  border-bottom: 1px solid black; }
+
+/* line 25, _menu.scss */
+.avatar {
+  width: 150px; }
+
+/* line 1, _wall.scss */
+.wall {
+  margin-top: 100px; }
+
+/* line 4, _wall.scss */
+.messages {
+  margin-top: 100px;
+  display: none; }
+
+/* line 8, _wall.scss */
+.notifications {
+  margin-top: 100px;
+  display: none; }
+
+/* line 8, _pub.scss */
+.pub {
+  padding: 10px;
+  width: 95%;
+  height: auto;
+  background: #E3E3E4;
+  font-family: 'Quando', serif;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+  /* line 15, _pub.scss */
+  .pub h1 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 110px; }
+
+/* line 23, _pub.scss */
+.pub-head {
+  height: 110px; }
+
+/* line 26, _pub.scss */
+.pub-avatar {
+  float: left;
+  width: 100px; }
+
+/* line 30, _pub.scss */
+.content {
+  text-align: center; }
+
+/* line 33, _pub.scss */
+.feat-img {
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px; }

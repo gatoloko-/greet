@@ -1,0 +1,27 @@
+.menu{
+  font-family: 'Quando', serif;
+  display: none;
+  z-index: 10;
+  background: #E3E3E4;
+	width: 600px;
+	height: 100vh;
+	position: fixed;
+	top: 0px;
+}
+.close-menu{
+  position: relative;
+  top: 0px;
+  float: right;
+}
+.menu-logo{
+  width: 350px;
+}
+.menu-item{
+  font-weight: bold;
+  font-size: 40px;
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+.avatar{
+  width:150px;
+}

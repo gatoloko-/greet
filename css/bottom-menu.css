@@ -1,0 +1,16 @@
+/* line 1, bottom-menu.scss */
+.bottom {
+  background: #37A54A;
+  width: 100%;
+  position: fixed;
+  top: 0px; }
+
+/* line 7, bottom-menu.scss */
+.bottom-item {
+  float: left;
+  margin-right: 20px;
+  margin-left: 20px; }
+
+/* line 12, bottom-menu.scss */
+.bottom-icon {
+  max-width: 80px; }
