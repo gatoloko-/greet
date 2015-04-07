@@ -105,21 +105,35 @@ body {
     font-size: 50px;
     font-weight: bold;
     line-height: 110px; }
+  /* line 20, _pub.scss */
+  .pub h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left; }
 
-/* line 23, _pub.scss */
+/* line 28, _pub.scss */
 .pub-head {
   height: 110px; }
 
-/* line 26, _pub.scss */
+/* line 31, _pub.scss */
 .pub-avatar {
   float: left;
   width: 100px; }
 
-/* line 30, _pub.scss */
+/* line 35, _pub.scss */
 .content {
   text-align: center; }
 
-/* line 33, _pub.scss */
+/* line 38, _pub.scss */
+.img-container {
+  max-width: 95%;
+  height: 350px;
+  overflow: hidden; }
+  /* line 42, _pub.scss */
+  .img-container img {
+    width: 100%; }
+
+/* line 46, _pub.scss */
 .feat-img {
   max-width: 95%;
   margin-left: auto;

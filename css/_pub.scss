@@ -17,6 +17,11 @@
     font-weight: bold;
     line-height: 110px;
   }
+  h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+  }
   margin-top:10px;
   margin-bottom:10px;
 }
@@ -29,6 +34,14 @@
 }
 .content{
   text-align: center;
+}
+.img-container{
+  max-width:95%;
+  height: 350px;
+  overflow: hidden;
+  img{
+    width: 100%
+  }
 }
 .feat-img{
   max-width: 95%;

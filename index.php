@@ -29,50 +29,56 @@
 			<div class="pub">
 				<div class="pub-head">
 					<img src="img/user.png" class="pub-avatar" />
+					
 					<h1>Rigoberto Cortazar</h1>
 				</div>
 				<div class="content">
-					<img src="img/test/Chair2.jpg" class="feat-img" />
+					<div class="img-container">
+						<img src="img/test/Chair2.jpg" class="feat-img" />
+					</div>
+					<h1>Regalo sillón de terciopelo rojo</h1>
 				</div>
 				
 			</div>
 			<div class="pub">
 				<div class="pub-head">
 					<img src="img/user.png" class="pub-avatar" />
+					
 					<h1>Rigoberto Cortazar</h1>
 				</div>
 				<div class="content">
-					<img src="img/test/Chair2.jpg" class="feat-img" />
+					<div class="img-container">
+						<img src="img/test/Chair2.jpg" class="feat-img" />
+					</div>
+					<h1>Regalo sillón de terciopelo rojo</h1>
 				</div>
 				
 			</div>
 			<div class="pub">
 				<div class="pub-head">
 					<img src="img/user.png" class="pub-avatar" />
+					
 					<h1>Rigoberto Cortazar</h1>
 				</div>
 				<div class="content">
-					<img src="img/test/Chair2.jpg" class="feat-img" />
+					<div class="img-container">
+						<img src="img/test/Chair2.jpg" class="feat-img" />
+					</div>
+					<h1>Regalo sillón de terciopelo rojo</h1>
 				</div>
 				
 			</div>
 			<div class="pub">
 				<div class="pub-head">
 					<img src="img/user.png" class="pub-avatar" />
+					
 					<h1>Rigoberto Cortazar</h1>
 				</div>
 				<div class="content">
-					<img src="img/test/Chair2.jpg" class="feat-img" />
-				</div>
-				
-			</div>
-			<div class="pub">
-				<div class="pub-head">
-					<img src="img/user.png" class="pub-avatar" />
-					<h1>Rigoberto Cortazar</h1>
-				</div>
-				<div class="content">
-					<img src="img/test/Chair2.jpg" class="feat-img" />
+					<div class="img-container">
+						<img src="img/test/Chair2.jpg" class="feat-img" />
+					</div>
+					<h1>Regalo sillón de terciopelo rojo</h1>
 				</div>
 				
 			</div>
